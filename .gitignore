@@ -130,3 +130,6 @@ dmypy.json
 
 .code-workspace
 SGPS_DiscordBot.code-workspace
+
+#discord 봇
+token
